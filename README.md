@@ -80,18 +80,15 @@ Newsletter / personal journal
 
 ---
 
-## Quickstart — no installation needed
+## ⚠️ Get the full toolkit
 
-### Option 1: Google Colab (recommended)
-Open either notebook directly in your browser — no Python installation required.
+This repository contains **preview content only** — the README and screenshots showing what the notebooks produce. The `.ipynb` files are not published here.
 
-**Wheel Calculator:**
+The complete Wheel Strategy Toolkit — both working notebooks — is available  **free to subscribers** of The Quantitative Edge newsletter.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/wheel-strategy-toolkit/blob/main/wheel_calculator.ipynb)
+👉 **[Subscribe at fabiobaruffa.com](https://fabiobaruffa.com)** and the toolkit lands in your inbox automatically.
 
-**Wheel Tracker:**
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/wheel-strategy-toolkit/blob/main/wheel_strategy_tracker.ipynb)
+Once you have the notebooks, open them in Google Colab — no Python installation required, runs in your browser in 30 seconds.
 
 ### Option 2: Local Jupyter
 ```bash
@@ -101,7 +98,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-### Requirements
+### Requirements (if running locally)
 ```
 pandas
 numpy
@@ -130,16 +127,6 @@ jupyter
 4. **Set your account size** (Section 4) — for accurate monthly return calculation
 5. Run all cells at the end of each month to generate your performance report
 6. **Export** (Section 5) — timestamped CSV of your full trade journal
-
----
-
-## ⚠️ Get the full toolkit
-
-This repository contains **preview content only** — the README and screenshots showing what the notebooks produce. The `.ipynb` files are not published here.
-
-The complete Wheel Strategy Toolkit — both working notebooks — is available **free to subscribers** of The Quantitative Edge newsletter.
-
-👉 **[Subscribe at fabiobaruffa.com](https://fabiobaruffa.com)** and the toolkit lands in your inbox automatically.
 
 ---
 
