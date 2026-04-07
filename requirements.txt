@@ -1,0 +1,11 @@
+# Wheel Strategy Toolkit — The Quantitative Edge
+# https://fabiobaruffa.com
+#
+# Install with: pip install -r requirements.txt
+ 
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+jupyter>=1.0.0
+yfinance>=0.2.0
+ 
