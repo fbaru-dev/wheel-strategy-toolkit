@@ -33,7 +33,6 @@ Evaluates up to 5 put or call candidates side by side and tells you instantly wh
 | 📉 Step 1: CSP Analysis | Strike, premium, commission, expiry → net credit, $/day, annualized return, capital required, drop % |
 | 📈 Step 2: CC Analysis | Assigned price, shares, strike → annualized return, rise %, total gain if exercised, strike rule check |
 | 📊 Visual Parameter Check | Color-coded charts — green = within parameters, red = outside |
-| 🔮 P&L Scenarios | How each put performs across a range of expiry prices |
 | 📋 Trade Decision Summary | Single go/no-go view of all candidates before placing any order |
 
 **Rules enforced automatically:**
