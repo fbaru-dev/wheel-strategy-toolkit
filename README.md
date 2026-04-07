@@ -145,7 +145,7 @@ jupyter
 
 ## About the author
 
-I'm Fabio — a physicist with a PhD in Quantum Computing, former HPC and Cloud Specialist at Intel and AWS, Lead Cloud Consultant at MPCDF, and systematic options trader for several years.
+I'm Fabio — a physicist with a PhD in Quantum Computing, former HPC and Cloud Specialist at Intel and AWS, Lead Cloud Consultant, and systematic options trader for several years.
 
 The MARA position in 2025 taught me that position sizing matters more than conviction, and that drawdown control must take priority over premium generation. Both lessons are built directly into this toolkit — the Calculator stops you from entering the wrong trade, the Tracker stops you from holding it too long.
 
