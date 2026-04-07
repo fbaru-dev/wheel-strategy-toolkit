@@ -95,7 +95,7 @@ Open either notebook directly in your browser — no Python installation require
 
 ### Option 2: Local Jupyter
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/wheel-strategy-toolkit.git
+git clone https://github.com/fbaru-dev/wheel-strategy-toolkit.git
 cd wheel-strategy-toolkit
 pip install -r requirements.txt
 jupyter notebook
@@ -145,9 +145,9 @@ The complete Wheel Strategy Toolkit — both working notebooks — is available 
 
 ## About the author
 
-I'm Fabio — a physicist with a PhD in Quantum Computing from the University of Regensburg, former researcher at Intel and AWS, Lead Cloud Consultant at MPCDF, and systematic options trader for the past five years.
+I'm Fabio — a physicist with a PhD in Quantum Computing, former HPC and Cloud Specialist at Intel and AWS, Lead Cloud Consultant at MPCDF, and systematic options trader for several years.
 
-The MARA position in 2025 taught me that position sizing matters more than conviction, and that drawdown control must take priority over premium generation. Both lessons are built directly into this toolkit — the Calculator stops you entering the wrong trade, the Tracker stops you holding it too long.
+The MARA position in 2025 taught me that position sizing matters more than conviction, and that drawdown control must take priority over premium generation. Both lessons are built directly into this toolkit — the Calculator stops you from entering the wrong trade, the Tracker stops you from holding it too long.
 
 I write about quantitative trading, options strategies, and Python at **[The Quantitative Edge](https://fabiobaruffa.com)** — a newsletter for traders who approach the market like scientists.
 
