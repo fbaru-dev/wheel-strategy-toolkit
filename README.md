@@ -57,6 +57,19 @@ Logs every CSP and Covered Call, monitors per-ticker drawdown, and generates the
 
 ---
 
+## Screenshots
+
+**Wheel Calculator — Cash Secured Put Analysis**
+![Wheel Calculator](screenshots/screenshot01.png)
+
+**Wheel Calculator — Covered Call Analysis**
+![Wheel Calculator](screenshots/screenshot02.png)
+
+**Wheel Tracker — Portfolio Dashboard**
+![Wheel Tracker](screenshots/screenshot03.png)
+
+---
+
 ## The workflow — how the two notebooks work together
 
 ```
