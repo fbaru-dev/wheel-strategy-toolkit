@@ -1,6 +1,7 @@
 # 🎡 Wheel Strategy Toolkit
+## [Fabio Baruffa](https://fabiobaruffa.com) — The Quantitative Edge
 ### A complete pre-trade and post-trade Python system for systematic options traders
-### by [Fabio Baruffa](https://fabiobaruffa.com) — The Quantitative Edge
+
 
 [![Blog](https://img.shields.io/badge/Blog-The%20Quantitative%20Edge-185FA5)](https://fabiobaruffa.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
